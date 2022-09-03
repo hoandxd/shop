@@ -22,7 +22,7 @@
                     <div class="container-fluid px-4">
                         <h1 class="mt-4">Categories</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item active">Create Category</li>
+                            <li class="breadcrumb-item active">Edit Category</li>
                         </ol>
                         <div class="card mb-4">
                             <div class="card-header">

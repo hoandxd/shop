@@ -17,7 +17,7 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li><i class="fas fa-envelope"></i> Khai.hoan.5209@hmail.com</li>
+                                <li><i class="fas fa-envelope"></i> Khai.hoan.5209@gmail.com</li>
                                 <li>Free ship</li>
                             </ul>
                         </div>

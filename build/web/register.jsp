@@ -28,9 +28,17 @@
                     <h4 style="text-align: center;">SIGN UP</h4>
                     <form action="RegisterServlet" method="post">
                         <span>${error}</span>
-                        <div class="checkout__input"><input type="email" placeholder="Email*" name="email"></div>
-                        <div class="checkout__input"><input type="password" placeholder="Password*" name="password"></div>
-                        <div class="center"><button type="submit" class="site-btn">Create an account</button></div>
+                        <div class="checkout__input">
+                            <p>Email<span>*</span></p>
+                            <input type="email" placeholder="Email*" name="email"></div>
+                        <div class="checkout__input">
+                            <p>Password<span>*</span></p>
+                            <input type="password" placeholder="Password*" name="password"></div>
+                        
+                        <p>Create an account by entering the button below. If you are a returning customer
+                                please login at the top of the page</p>
+                        <div class="center">
+                            <button type="submit" class="site-btn">Create an account</button></div>
                     </form>
                 </div>
             </div>
